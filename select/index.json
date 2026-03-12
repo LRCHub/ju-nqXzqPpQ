@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "コリドー街",
+  "base_artist": "Pinoko",
+  "createdAt": "2026-03-12T10:09:12.717795Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コリドー街",
+      "artist": "pinoko",
+      "has_synced": false,
+      "path": "select/pl_01_コリドー街_pinoko.txt"
+    }
+  ]
+}
